@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "jane.smith@example.com",
+      "role": "teacher"
+    },
+    {
+      "id": 3,
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "email": "alice.johnson@example.com",
+      "role": "student"
+    },
+    {
+      "id": 4,
+      "firstName": "Bob",
+      "lastName": "Brown",
+      "email": "bob.brown@example.com",
+      "role": "student"
+    },
+    {
+      "id": 5,
+      "firstName": "Charlie",
+      "lastName": "Davis",
+      "email": "charlie.davis@example.com",
+      "role": "teacher"
+    }
+  ],
+  "students": [
+    {
+      "firstName": "daw",
+      "lastName": "daw",
+      "group": "n58",
+      "id": "43ba"
+    },
+    {
+      "id": "f942",
+      "firstName": "yuter",
+      "lastName": "back",
+      "group": "n67"
+    }
+  ],
+  "teachers": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "level": "Senior",
+      "id": "1"
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "level": "Senior",
+      "id": "2"
+    },
+    {
+      "firstName": "Jim",
+      "lastName": "Brown",
+      "level": "Middle",
+      "id": "3"
+    },
+    {
+      "firstName": "rff",
+      "lastName": "rrf",
+      "level": "Middle",
+      "id": "991f"
+    }
+  ]
+}
